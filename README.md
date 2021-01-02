@@ -9,7 +9,7 @@ __*Bold and Italic*__
 
 horizontal line with 3 asterisks *
 ***
-horizontal line wit 3 dashs -
+horizontal line with 3 dashs -
 ---
 
 ### Title 3 - Creating lists
