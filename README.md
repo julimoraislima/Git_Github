@@ -7,6 +7,11 @@
 __bold__ **bold** _italic_ *italic* ~~crossed out text~~
 __*Bold and Italic*__
 
+horizontal line with 3 asterisks *
+***
+horizontal line wit 3 dashs -
+---
+
 ### Title 3 - Creating lists
 1. test1
 1. test2
